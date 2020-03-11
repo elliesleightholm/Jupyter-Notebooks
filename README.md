@@ -1,1 +1,1 @@
-# MATH2750 R Practical - Markov Chains
+Code for Assignment 2 of Introduction to Markov Processes.
