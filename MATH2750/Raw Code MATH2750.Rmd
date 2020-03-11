@@ -1,4 +1,4 @@
-#MATH2750 Practical
+#MATH2750 Practical - Introduction to Markov Processes
 
 # Code needed before attempting questions:
 # Produces a transition matrix for a Markov chain based on a parameter eps
