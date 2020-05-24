@@ -56,21 +56,3 @@ print('{} bought {} apples today!'.format(who, how_many))
 #OR
 
 print('{0} bought {1} apples today!'.format(who, how_many))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
